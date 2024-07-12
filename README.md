@@ -21,4 +21,5 @@ Team Barudak TPL
 Aplikasi Carikerja adalah platform freelance yang tidak memerlukan keahlian formal atau sertifikasi khusus, sehingga memungkinkan pekerja yang kurang terdidik dan kurang beruntung untuk mendapatkan pekerjaan. Setelah mereka memperoleh pekerjaan awal, aplikasi ini juga menyediakan kursus dan pelatihan untuk meningkatkan kompetensi mereka, sehingga mereka dapat meraih pekerjaan yang lebih layak dan meningkatkan taraf hidup mereka.
 
 [link design Figma](https://www.figma.com/design/yOE6Bd7RBmMX61bSdlnUmL/CariKerja-Design?node-id=0-1&t=3Qo9HxBzQbY3XXhk-1)
+
 [Link Presentation](https://www.canva.com/design/DAGKxETv3FY/UWIvsjv8m1sQlzd0iYmVgQ/edit?utm_content=DAGKxETv3FY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
